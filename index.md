@@ -7,16 +7,22 @@
 <div style="display:flex; justify-content:space-between">
   <a href="https://www.python.org/">
   	<img src="icons/python_transparent.png" width="100" />
+  </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript">
   	<img src="icons/javascript_transparent.png" width="100" /> 
+  </a>
   <a href="https://nodejs.org/en/">
   	<img src="icons/nodejs_transparent.png" width="100" />
+  </a>
   <a href="https://en.wikipedia.org/wiki/HTML">
   	<img src="icons/html_transparent.png" width="100" />
+  </a>
   <a href="https://en.wikipedia.org/wiki/CSS">
   	<img src="icons/css_transparent.png" width="100" /> 
+  </a>
   <a href="https://reactjs.org/">
   	<img src="icons/react_transparent.png" width="100" />
+  </a>
 </div>
 
 ## About Me

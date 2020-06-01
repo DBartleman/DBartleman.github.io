@@ -4,7 +4,7 @@
 
 ## Skills
 
-<p style="display:flex; justify-content:center; padding:20px;">
+<div style="display:flex; justify-content:center; align-items:space-between">
   <a href="https://www.python.org/">
   	<img src="/icons/python_transparent.png" width="100" />
   <a href="https://en.wikipedia.org/wiki/JavaScript">
@@ -17,7 +17,7 @@
   	<img src="/icons/css_transparent.png" width="100" /> 
   <a href="https://reactjs.org/">
   	<img src="/icons/react_transparent.png" width="100" />
-</p>
+</div>
 
 ## About Me
 

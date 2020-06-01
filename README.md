@@ -1,3 +1,9 @@
+##View my site live here:
+
+[dbartleman.github.io](https://dbartleman.github.io/)
+
+##Below is the unchanged Github Pages intro file
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DBartleman/DBartleman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

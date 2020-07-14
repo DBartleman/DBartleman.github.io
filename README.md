@@ -2,6 +2,7 @@
 
 [dbartleman.github.io](https://dbartleman.github.io/)
 
+----------------------------------------------------------------------
 ## Below is the unchanged Github Pages intro file
 
 ## Welcome to GitHub Pages
